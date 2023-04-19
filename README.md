@@ -1,2 +1,2 @@
-# stocktradingproject
-working of stock trading website
+# practisesample
+commands of git
